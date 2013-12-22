@@ -10,10 +10,10 @@ def oauth_login():
 	""" Use the twitter ouath credentials to create and instance of the 
 	twitter api"""
 	
-	CONSUMER_KEY = 'eVrfLTLytTGB9bg6sUVRQ'
-	CONSUMER_SECRET = 'XqxFx2SXq4zEaSVdlSBPAhBIJwa3PNoew5ezsi1dUAo'
-	OAUTH_TOKEN = '1401308084-XkdSE7QSHtsnFntsxpyr6OJwnScvKtEYEHVxKmQ'
-	OAUTH_TOKEN_SECRET = 'DLUpOCVBnXFdnzuzqQHaPh1M4XWmDUYCkf0ImN1qzoa1X'
+	CONSUMER_KEY = ''
+	CONSUMER_SECRET = ''
+	OAUTH_TOKEN = ''
+	OAUTH_TOKEN_SECRET = ''
 	
 	auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,
 						CONSUMER_KEY, CONSUMER_SECRET)
