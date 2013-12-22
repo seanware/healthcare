@@ -24,7 +24,7 @@ were selected due to them being most related to the healthcare law.  Each one of
 filtered by screen name, hashtag, and text and analysis was performed on these corpora.
 Screen names and hashtags were extracted from the data and analyzed using basic summary statistics.
 Text analysis was done using python's nltk library to remove many of the non-relavant terms so the 
-analysis will be more indicative of meaning of the texts. All source code is available on [github.](http://www.github.com/uncleput/digits) 
+analysis will be more indicative of meaning of the texts. All source code is available on [github.](http://www.github.com/uncleput/healthcare) 
 
 								
 
